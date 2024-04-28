@@ -649,8 +649,8 @@ export const Secretariatwebjr = [
     id: 3,
     cName: "team-sec",
     imgsrc:
-    "https://res.cloudinary.com/dfpklvfbt/image/upload/v1708208373/IMG_9845_1_wsrayf.jpg",
-    alt:"Kaushik Talukdar",
+      "https://res.cloudinary.com/dfpklvfbt/image/upload/v1708208373/IMG_9845_1_wsrayf.jpg",
+    alt: "Kaushik Talukdar",
     name: "Kaushik Talukdar",
     post: "Technical Team",
     mail: "mailto:kaushiktalukdar004@gmail.com",
@@ -669,5 +669,4 @@ export const Secretariatwebjr = [
     linkedin: "https://www.linkedin.com/in/bitopanbaishya",
     fb: "https://github.com/BitopanBaishya",
   },
-
 ];

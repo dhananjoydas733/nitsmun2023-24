@@ -12,9 +12,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 
 const Hero = () => {
-
   return (
-    
     <div className={styles.hero}>
       <img
         src="https://res.cloudinary.com/dp92qug2f/image/upload/v1706616784/off_poster_f8mjht.webp"
@@ -203,7 +201,7 @@ const AnnualConf = () => {
       agenda: Agenda,
       banner: Banner,
       desc: Desc,
-      bg: bg,
+      bg,
       register: "",
     });
   };
@@ -250,13 +248,11 @@ const AnnualConf = () => {
               <button className={styles.infoBtnPopup} onClick={handleRegister}>
                 Register Now
               </button>
-              {wide.bg === "" ?
-                null : <a
-                  className={styles.infoBtnPopup}
-                  href={wide.bg}
-                >
+              {wide.bg === "" ? null : (
+                <a className={styles.infoBtnPopup} href={wide.bg}>
                   Background Guide
-                </a>}
+                </a>
+              )}
             </div>
           </div>
         </div>
@@ -378,7 +374,15 @@ const AnnualConf = () => {
                   <h1 className={styles.h1}>IPC- International Press Conferences </h1>
                   <p className={styles.p}>
                     <p className={styles.innerPara}>
-                      <b>Agenda:</b> The International Press Corps(IPC) is a committee where people who love writing, taking pictures, and fair journalism come together. Each journalist is teamed up with a famous news agency and given the job of watching and reporting on debates in other committees. They have to capture interesting moments and send reports every day. And you know what&apos;s cool? It&apos;s not just serious stuff; there&apos;s a lot of fun too! Imagine enjoying the lively discussions on the house floor – journalism with a dose of fun!
+                      <b>Agenda:</b> The International Press Corps(IPC) is a committee
+                      where people who love writing, taking pictures, and fair journalism
+                      come together. Each journalist is teamed up with a famous news
+                      agency and given the job of watching and reporting on debates in
+                      other committees. They have to capture interesting moments and send
+                      reports every day. And you know what&apos;s cool? It&apos;s not just
+                      serious stuff; there&apos;s a lot of fun too! Imagine enjoying the
+                      lively discussions on the house floor – journalism with a dose of
+                      fun!
                     </p>
                     {/* <p className={styles.innerPara}>
                       The United Nations Security Council maintains global peace, with 15
@@ -464,9 +468,12 @@ const AnnualConf = () => {
           <Card>
             <div className={styles.mainHeading}>
               <h1 className={styles.h1}>EXECUTIVE BOARD</h1>
-              <Swiper navigation
+              <Swiper
+                navigation
                 autoplay={{ delay: 2500, disableOnInteraction: false }}
-                modules={[Navigation]} className={styles.eb}>
+                modules={[Navigation]}
+                className={styles.eb}
+              >
                 <SwiperSlide className={styles.innerCont1}>
                   <div className={styles.imgParent}>
                     <img
@@ -480,7 +487,10 @@ const AnnualConf = () => {
                       <h1 className={styles.h1}>Sounak Sengupta</h1>
                       <p className={styles.p}>
                         <p className={styles.innerPara}>
-                          Mr Sounak Sengupta as the Chairperson for Intelligence Bureau. Sounak Sengupta, a physics post graduate student, has been doing MUNs since 2018. Apart from his academic persuasions, he takes keen interest in debates and public speaking.
+                          Mr Sounak Sengupta as the Chairperson for Intelligence Bureau.
+                          Sounak Sengupta, a physics post graduate student, has been doing
+                          MUNs since 2018. Apart from his academic persuasions, he takes
+                          keen interest in debates and public speaking.
                         </p>
                       </p>
                     </div>
@@ -499,7 +509,12 @@ const AnnualConf = () => {
                       <h1 className={styles.h1}>Prathmesh Repal</h1>
                       <p className={styles.p}>
                         <p className={styles.innerPara}>
-                          Mr. Prathamesh Repal as the Chairperson for UNHRC. As he takes the helm as the  Chairperson for the UNHRC simulation at NITS 2024, his passion for fostering a conducive and inclusive committee atmosphere shines through. He strives to uphold the essence of MUNs as a breeding ground for creative ideas and solutions.
+                          Mr. Prathamesh Repal as the Chairperson for UNHRC. As he takes
+                          the helm as the Chairperson for the UNHRC simulation at NITS
+                          2024, his passion for fostering a conducive and inclusive
+                          committee atmosphere shines through. He strives to uphold the
+                          essence of MUNs as a breeding ground for creative ideas and
+                          solutions.
                         </p>
                       </p>
                     </div>
@@ -518,7 +533,12 @@ const AnnualConf = () => {
                       <h1 className={styles.h1}>David Das</h1>
                       <p className={styles.p}>
                         <p className={styles.innerPara}>
-                          Mr David Das as the Chairperson for Hastinapur Special Council. With over 100 MUNs under his belt, he is a master of debating and diplomacy, and a gifted speaker. One of his crowning achievements was attending a MUN conference at the UN Headquarters in New York in 2017, where he won the “Best Delegation” Award for his outstanding performance at the UNHQ.
+                          Mr David Das as the Chairperson for Hastinapur Special Council.
+                          With over 100 MUNs under his belt, he is a master of debating
+                          and diplomacy, and a gifted speaker. One of his crowning
+                          achievements was attending a MUN conference at the UN
+                          Headquarters in New York in 2017, where he won the “Best
+                          Delegation” Award for his outstanding performance at the UNHQ.
                         </p>
                       </p>
                     </div>
@@ -537,13 +557,14 @@ const AnnualConf = () => {
                       <h1 className={styles.h1}>Bhaswar Agnivesh</h1>
                       <p className={styles.p}>
                         <p className={styles.innerPara}>
-                          Hey! I am Bhaswar Agnivesh. I am 2nd year Electronics & Communication Undergraduate student
-                          at NITS. MUN has always been something that intrigues me and
-                          it&apos;s just an incredible platform to furnish skills in an
-                          individual. I am really grateful to NITSMUN for giving me the
-                          opportunity to participate and organise amazing conferences and now,
-                          to chair one! Looking forward to creating unforgettable memories in
-                          here. See you at the next upcoming session!
+                          Hey! I am Bhaswar Agnivesh. I am 2nd year Electronics &
+                          Communication Undergraduate student at NITS. MUN has always been
+                          something that intrigues me and it&apos;s just an incredible
+                          platform to furnish skills in an individual. I am really
+                          grateful to NITSMUN for giving me the opportunity to participate
+                          and organise amazing conferences and now, to chair one! Looking
+                          forward to creating unforgettable memories in here. See you at
+                          the next upcoming session!
                         </p>
                       </p>
                     </div>
@@ -554,15 +575,18 @@ const AnnualConf = () => {
           </Card>
           <div className={styles.sponsor}>
             <h1 className={styles.sponsorHeading}>Proudly co-sponsored by</h1>
-         
+
             <div className={styles.sponsorContent}>
               <a href="https://www.cogg.io/" target="_blank">
-                  <img className={styles.img} src="https://res.cloudinary.com/dfpklvfbt/image/upload/v1708520672/cogg_dsqslm.png" alt="cogg" />
+                <img
+                  className={styles.img}
+                  src="https://res.cloudinary.com/dfpklvfbt/image/upload/v1708520672/cogg_dsqslm.png"
+                  alt="cogg"
+                />
               </a>
-              </div>
-                    
+            </div>
           </div>
-          
+
           <Glimpses />
           <Faq color="#1d1c41" />
         </div>
