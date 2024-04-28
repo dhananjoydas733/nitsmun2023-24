@@ -46,7 +46,7 @@ const Home = () => {
           />
         </div>
         <Reviews />
-        <Collaboration/>
+        <Collaboration />
         <Nitsmun />
         {/* <About/>
       <Archive />

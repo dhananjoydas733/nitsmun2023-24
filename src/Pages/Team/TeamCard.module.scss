@@ -9,7 +9,6 @@
   align-items: center;
   justify-content: space-around;
   z-index: 3;
-
 }
 
 .overview {
@@ -194,7 +193,7 @@
 }
 
 @media screen and (max-width: 450px) {
-  .TeamCard{
+  .TeamCard {
     margin: 0.7rem;
     padding: 4rem;
   }

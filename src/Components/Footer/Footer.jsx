@@ -10,26 +10,26 @@ const Footer = () => {
       <div className={styles.imageContainer1}>
         {/* <div className="image"> */}
         <div className={styles.icon}>
-         <a href="https://www.youtube.com/@nitsmun384" target="_blank">          
-          <IoLogoYoutube color="white" />
+          <a href="https://www.youtube.com/@nitsmun384" target="_blank">
+            <IoLogoYoutube color="white" />
           </a>
         </div>
         <div className={styles.icon}>
           <a href="https://www.instagram.com/nitsmun/" target="_blank">
-          <FaInstagram color="white" />
+            <FaInstagram color="white" />
           </a>
         </div>
         <div className={styles.icon}>
           <a href="https://www.facebook.com/NITSMUN" target="_blank">
-          <FaFacebook color="white" />
+            <FaFacebook color="white" />
           </a>
         </div>
         <div className={styles.icon}>
-           <a
-              href="https://www.linkedin.com/company/nit-silchar-model-united-nations/mycompany/"
-              target="_blank"
-            >
-          <FaLinkedin color="white" />
+          <a
+            href="https://www.linkedin.com/company/nit-silchar-model-united-nations/mycompany/"
+            target="_blank"
+          >
+            <FaLinkedin color="white" />
           </a>
         </div>
         {/* </div> */}

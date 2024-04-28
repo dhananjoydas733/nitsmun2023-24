@@ -8,7 +8,6 @@ import Letter from "../Letters/Letters";
 import Nitsmun from "../WhatIsMUN/NitsMun";
 import "./App.css";
 import Footer from "../Footer/Footer";
-import Collaboration from "../Collaboration/Collaboration";
 
 const App = () => {
   return (
@@ -27,7 +26,6 @@ const App = () => {
       </div>
       <Nitsmun />
       <Footer />
-
     </div>
   );
 };
