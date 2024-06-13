@@ -6,7 +6,7 @@ export const Secretariat = [
       "https://res.cloudinary.com/dp92qug2f/image/upload/v1707424604/maruf_padaya_vi93jh.jpg",
     alt: "Maruf Padaya",
     name: "Maruf Padaya",
-    post: "Sacretary General",
+    post: "Secretary General",
     linkedin: "https://www.linkedin.com/in/maruf-padaya-a865151bb",
     fb: "https://www.facebook.com/maruf.padaya",
     mail: "mailto:marufpadaya786@gmail.com",
