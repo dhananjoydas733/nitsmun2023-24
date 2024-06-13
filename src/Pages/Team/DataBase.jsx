@@ -500,7 +500,7 @@ export const Secretariatresearchjr = [
     id: 4,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1695931104/nitsmun/barbi_alsh1h.webp",
+      "https://res.cloudinary.com/dhry5xscm/image/upload/v1717871021/nitsmun/barbi_wkp0eb.webp",
     alt: "Barbi Chaliha",
     name: "Barbi Chaliha",
     post: "Research and Development Team",
@@ -524,7 +524,7 @@ export const Secretariatresearchjr = [
     id: 6,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1695931105/nitsmun/vishnu_priya_m7rmcz.webp",
+      "https://res.cloudinary.com/dhry5xscm/image/upload/v1717871021/nitsmun/vishnupriya_xyeyim.webp",
     alt: "Vishnu Priya",
     name: "Vishnu Priya",
     post: "Research and Development Team",
@@ -562,7 +562,7 @@ export const Secretariatprjr = [
     id: 2,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1695931104/nitsmun/arihant_r5m73m.webp",
+      "https://res.cloudinary.com/dhry5xscm/image/upload/v1717874909/nitsmun/arihant_h7zqdj.webp",
     alt: "Arihant Tiwari",
     name: "Arihant Tiwari",
     post: "Public Relations & Outreach Team",
@@ -637,7 +637,7 @@ export const Secretariatwebjr = [
     id: 2,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1695931104/nitsmun/samarjit_yzad4o.webp",
+      "https://res.cloudinary.com/dhry5xscm/image/upload/v1717873621/nitsmun/samarjit_kk2y5m.webp",
     alt: "Samarjit Roy",
     name: "Samarjit Roy",
     post: "Technical Team",

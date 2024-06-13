@@ -41,8 +41,8 @@ const Home = () => {
           />
           <Letter
             title="Secratory General"
-            name="Maruf Padaya"
-            src="https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676476439/events/nitsmun/team/marufPadaya_faj39h.jpg"
+            name="Ronak Jain"
+            src="https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676477071/events/nitsmun/team/Ronak_Jain_etgqal.jpg"
           />
         </div>
         <Reviews />

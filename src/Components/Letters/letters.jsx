@@ -15,33 +15,30 @@ const letter = (props) => {
             <img src={props.src} className={styles.letterPhoto} alt={styles.secGen} />
             <div>
               <p className={styles.peraHeading}>
-                Dear Delegates, respected Faculty Advisors, and the Secretariat
+                Dear Delegates
+                {props.name === "Ronak Jain" ? <>, respected Faculty Advisors</> : null},
+                and the Secretariat
               </p>
               <p className={`${styles.messagefrmFic} ${styles.p}`}>
-                {props.name === "Maruf Padaya" ? (
+                {props.name === "Ronak Jain" ? (
                   <>
-                    It is of utmost pride and honour to be the Secretary General of this
-                    esteemed Secretariat for this year and more prestigious to host you as
-                    our keen readers.
+                    As the Secretary-General of NITSMUN, I am thrilled to share our vision
+                    and mission with you all. At NITSMUN, we are dedicated to fostering a
+                    culture of rational thinking and honing public speaking skills among
+                    our members.
                     <br />
                     <br />
-                    NITSMUN, since its inception in 2014 has always believed in striving
-                    for peace with ink and voice. With great support from our concerned
-                    members, we have hosted numerous conferences, multiple events and
-                    workshops, hosting 1000+ delegates and a family of 10k+ members on our
-                    Social Media handles.
+                    Our aim is not only to simulate United Nations conferences but also to
+                    empower individuals with the ability to articulate their perspectives
+                    on global affairs. We believe that by mastering the art of diplomacy
+                    and public speaking, our members can become effective advocates for
+                    change in their communities and beyond.
                     <br />
                     <br />
-                    This upcoming year, we are very keen to host numerous events and
-                    workshops to boost and strengthen the voice of our flying delegates
-                    who are ready to roar on the matters of global concern, and more
-                    importantly solve for forthcoming generations. Notable episodes
-                    include the first inaugural Youth Parliament in November (2023), the
-                    11th edition of of our flagship Annual Conference in February (2024),
-                    and a dedicated ‘diplomacy’ week comprising of various events such as
-                    debates, extempore, quiz, G20-simulation and many more to comprehend
-                    geopolitical matters and develop the instinct to solve them with
-                    dialogues.
+                    Furthermore, we are committed to building a vibrant MUNing culture in
+                    North Eastern India. By providing platforms for dialogue, debate, and
+                    collaboration, we aspire to inspire the next generation of leaders and
+                    change-makers in the region.
                     <br />
                     <br />
                     On behalf of my Secretariat, I welcome you all on this journey of
@@ -55,22 +52,22 @@ const letter = (props) => {
                   </>
                 ) : (
                   <>
-                    Since its inception NITSMUN has been working hard, trying to build a
-                    MUNning environment in the college. I personally feel that the efforts
-                    they put in in each little thing they do is commendable. It has been
-                    quite some time since I have been connected to this club, and this
-                    club has never disappointed me. I would love to see this club
-                    flourishing more and more in the coming years. This time they are
-                    planning to hold the three days annual conference in an even grander
-                    manner, with three very exciting and out of the box committees. To be
-                    held under the banner of Incandescence 2023, NITSMUN is all ready to
-                    welcome all MUNners and non-MUNners from all around the country.
+                    Dear Delegates, Since its inception, NITSMUN has been dedicated to
+                    building a strong MUN environment in the college. I personally feel
+                    that their hard work and attention to detail are commendable.
+                    I&apos;ve been connected to this club for quite some time, and it has
+                    never disappointed me. I look forward to seeing it flourish even more
+                    in the coming years.
                     <br />
                     <br />
-                    To everyone reading this, I would ask you to go through this website
-                    so that you learn more about this club and about MUNs in general.
+                    This time, they are planning an even grander three-day annual
+                    conference with three very exciting and unique committees. Held under
+                    the banner of Incandescence 2024, NITSMUN is ready to welcome all
+                    MUNners and non-MUNners from across the country.
                     <br />
                     <br />
+                    To everyone reading this, I encourage you to explore the website to
+                    learn more about this club and MUNs in general.
                   </>
                 )}
               </p>
