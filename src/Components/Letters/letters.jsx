@@ -7,7 +7,7 @@ const letter = (props) => {
     <div className={styles.letter}>
       <div className={styles.main}>
         <div className={styles.header}>
-          <h1 className={styles.h1}>Letters From {props.title}</h1>
+          <h1 className={styles.h1}>Letter From {props.title}</h1>
         </div>
 
         <div className={styles.pera}>
