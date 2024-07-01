@@ -47,10 +47,10 @@ const Home = () => {
             src="https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676477071/events/nitsmun/team/Ronak_Jain_etgqal.jpg"
           />
         </div>
-        <Blogs />
-        <Reviews />
-        <Collaboration />
         <Nitsmun />
+        <Blogs />
+        <Collaboration />
+        <Reviews />
         {/* <About/>
       <Archive />
       <Apply /> */}
