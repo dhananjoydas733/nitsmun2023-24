@@ -37,7 +37,7 @@ import Error from "./Pages/Error/Error";
 import AnnualConf from "./Pages/AnnualConf/AnnualConf";
 import VerifyEmail from "./Pages/VerifyEmail/VerifyEmail";
 import ContactRes from "./Pages/ContactUsRes/ContactRes";
-
+import Blogs from "./Pages/Blogs/Blogs";
 const App = () => {
   const router = createBrowserRouter(
     createRoutesFromElements(
@@ -65,6 +65,7 @@ const App = () => {
         <Route path="/archive" element={<Archive />} />
         <Route path="/verifyemail/:token" element={<VerifyEmail />} />
         <Route path="/applynow" element={<Apply />} />
+        <Route path="/blogs" element={<Blogs />} />
         <Route path="*" element={<Error />} />
 
         {/* Admin stuffs */}

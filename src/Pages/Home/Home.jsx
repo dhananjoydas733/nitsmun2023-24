@@ -7,6 +7,8 @@ import Letter from "../../Components/Letters/letters";
 import Nitsmun from "../../Components/WhatIsMUN/nitsMun";
 import Footer from "../../Components/Footer/Footer";
 import Collaboration from "../../Components/Collaboration/Collaboration";
+import Blogs from "../../Components/Blogs/Blogs";
+
 // import About from "../../Components/About/About";
 // import Archive from "../../Components/Archiv/Archive";
 // import Apply from "../../Components/ApplyNow/apply";
@@ -45,6 +47,7 @@ const Home = () => {
             src="https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676477071/events/nitsmun/team/Ronak_Jain_etgqal.jpg"
           />
         </div>
+        <Blogs />
         <Reviews />
         <Collaboration />
         <Nitsmun />
