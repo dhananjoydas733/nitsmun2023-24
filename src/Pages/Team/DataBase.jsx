@@ -3,18 +3,6 @@ export const Secretariat = [
     id: 1,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676475732/events/nitsmun/aditi_MUN_o2zaxx.jpg",
-    alt: "Aditi Archita Khataniar",
-    name: "Aditi Archita Khataniar",
-    post: "Director General",
-    linkedin: "https://in.linkedin.com/in/aditi-archita-khataniar-2189a3226",
-    fb: "https://www.facebook.com/mumpyyyyyyy",
-    mail: "mailto:aditi.khataniar@gmail.com",
-  },
-  {
-    id: 2,
-    cName: "team-sec",
-    imgsrc:
       "https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676477071/events/nitsmun/team/Ronak_Jain_etgqal.jpg",
     alt: "Ronak Jain",
     name: "Ronak Jain",
@@ -22,6 +10,19 @@ export const Secretariat = [
     linkedin: "https://www.linkedin.com/in/ronak4195/",
     fb: "https://www.facebook.com/ronak4195",
     mail: "mailto:4195rj@gmail.com",
+  },
+
+  {
+    id: 2,
+    cName: "team-sec",
+    imgsrc:
+      "https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676475732/events/nitsmun/aditi_MUN_o2zaxx.jpg",
+    alt: "Aditi Archita Khataniar",
+    name: "Aditi Archita Khataniar",
+    post: "Director General",
+    linkedin: "https://in.linkedin.com/in/aditi-archita-khataniar-2189a3226",
+    fb: "https://www.facebook.com/mumpyyyyyyy",
+    mail: "mailto:aditi.khataniar@gmail.com",
   },
 
   {
