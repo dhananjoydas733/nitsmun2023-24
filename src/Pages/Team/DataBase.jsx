@@ -187,6 +187,18 @@ export const Secretariat = [
     fb: "https://www.facebook.com/bhargavi.nath",
     mail: "mailto:bhargavinath.24@gmail.com",
   },
+  {
+    id: 16,
+    cName: "team-sec",
+    imgsrc:
+      "https://res.cloudinary.com/dhry5xscm/image/upload/v1694017427/gdsc%20seniors/team_pics/DipanPatgiri_ttu2pg.jpg",
+    alt: "Dipan Patgiri",
+    name: "Dipan Patgiri",
+    post: "DIRECTOR (Photo Journalism)",
+    linkedin: "https://www.linkedin.com/in/bhargavi-nath-9a8a81223",
+    fb: "https://www.facebook.com/bhargavi.nath",
+    mail: "mailto:bhargavinath.24@gmail.com",
+  },
 
   // --------------------------------------------------
 ];
@@ -579,6 +591,18 @@ export const Secretariatmediajr = [
     linkedin: "https://in.linkedin.com/in/jilmil-saikia-0431b2314",
     fb: "",
     mail: "mailto:Jilmils24@gmail.com",
+  },
+  {
+    id: 7,
+    cName: "team-sec",
+    imgsrc:
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725389190/mr13tg6ui0a4gclqgp0v.jpg",
+    alt: "Shashwat Patel",
+    name: "Shashwat Patel",
+    post: "Media Team",
+    linkedin: "https://www.linkedin.com/in/shashwat-patel-5b8a67279",
+    fb: "https://www.facebook.com/profile.php?id=61550363986087",
+    mail: "mailto:shashwatp673@gmail.com",
   },
 ];
 
