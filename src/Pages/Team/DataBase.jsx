@@ -219,7 +219,7 @@ export const Secretariatjr = [
     id: 3,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1695931103/nitsmun/p_harsh_geatf1.webp",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725381560/q0in9yagv38yihwcnfcm.jpg",
     alt: "P Shri Harsh",
     name: "P Shri Harsh",
     post: "Deputy Director General",
@@ -271,7 +271,7 @@ export const Secretariatjr = [
     id: 1,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1717871021/nitsmun/vishnupriya_xyeyim.webp",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725381613/iaxo9du5gg5poaetmfdp.jpg",
     alt: "Vishnu Priya",
     name: "Vishnu Priya",
     post: "Deputy Director (Research and Development)",
@@ -778,7 +778,7 @@ export const Secretariatprjr = [
     id: 6,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725181774/ajuukzceegjfstdd0qni.jpg",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725381693/gxrcz6khujkt1codxc2i.jpg",
     alt: "Arjun Roy",
     name: "Arjun Roy",
     post: "Marketing Team",
@@ -843,12 +843,12 @@ export const Secretariatwebjr = [
     id: 1,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725304167/gyyd5uppto5danzjg9l9.jpg",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725382260/vxr39cahyjtjlfcrlhnd.jpg",
     alt: "Dhananjoy Das",
     name: "Dhananjoy Das",
     post: "Technical Team",
     mail: "mailto:dasdhananjoy733@gmail.com",
-    linkedin: "https://www.linkedin.com/in/barnil-sarma-34383a255?trk=contact-info",
+    linkedin: "www.linkedin.com/in/dhananjoydas733",
     fb: "https://github.com/dhananjoydas733",
   },
   {
@@ -868,7 +868,7 @@ export const Secretariatwebjr = [
     id: 3,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725304471/ycu9upvolucvavewa9gt.jpg",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725382179/ad4aruhhqs8tzhtyusi3.jpg",
     alt: "Devanuj Rijal ",
     name: "Devanuj Rijal ",
     post: "Technical Team",
