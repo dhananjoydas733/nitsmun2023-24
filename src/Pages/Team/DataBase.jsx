@@ -161,6 +161,20 @@ export const Secretariat = [
     linkedin: "https://www.linkedin.com/in/dorothy-phukon-48a066230",
     fb: "https://github.com/dorothyp12",
   },
+=======
+  },
+  {
+    id: 13,
+    cName: "team-sec",
+    imgsrc:
+      "https://res.cloudinary.com/dp92qug2f/image/upload/c_scale,w_360,f_auto,fl_lossy/v1676476226/events/nitsmun/team/dorothy2_zk4myd.jpg",
+    alt: "Dorothy Phukon",
+    name: "Dorothy Phukon",
+    post: "Director (Technical Operations)",
+    mail: "mailto:dorothy21_ug@ee.nits.ac.in",
+    linkedin: "https://www.linkedin.com/in/dorothy-phukon-48a066230",
+    fb: "https://github.com/dorothyp12",
+  },
 
   {
     id: 14,
@@ -591,6 +605,7 @@ export const Secretariatmediajr = [
     linkedin: "https://in.linkedin.com/in/jilmil-saikia-0431b2314",
     fb: "",
     mail: "mailto:Jilmils24@gmail.com",
+
   },
   {
     id: 7,
@@ -802,7 +817,7 @@ export const Secretariatprjr = [
     id: 6,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725381693/gxrcz6khujkt1codxc2i.jpg",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725181774/ajuukzceegjfstdd0qni.jpg",
     alt: "Arjun Roy",
     name: "Arjun Roy",
     post: "Marketing Team",
@@ -872,7 +887,8 @@ export const Secretariatwebjr = [
     name: "Dhananjoy Das",
     post: "Technical Team",
     mail: "mailto:dasdhananjoy733@gmail.com",
-    linkedin: "www.linkedin.com/in/dhananjoydas733",
+
+    linkedin: "https://www.linkedin.com/in/dhananjoydas733",
     fb: "https://github.com/dhananjoydas733",
   },
   {
@@ -892,7 +908,9 @@ export const Secretariatwebjr = [
     id: 3,
     cName: "team-sec",
     imgsrc:
+
       "https://res.cloudinary.com/dffke2hbp/image/upload/v1725382179/ad4aruhhqs8tzhtyusi3.jpg",
+
     alt: "Devanuj Rijal ",
     name: "Devanuj Rijal ",
     post: "Technical Team",
