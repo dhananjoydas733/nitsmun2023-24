@@ -26,7 +26,7 @@ const Team = () => {
         <h1 className={styles.teamHeading} style={{ color: "#1D1C41", margin: "0 auto" }}>
           MEET THE TEAM
         </h1>
-        <h1 className={styles.posHeading}>SECRETARIAT OF TENURE 2023-24</h1>
+        <h1 className={styles.posHeading}>SECRETARIAT OF TENURE 2024-25</h1>
         <div className={styles.fourthYear}>
           {Secretariat.map((item) => (
             <TeamCard
@@ -82,7 +82,9 @@ const Team = () => {
             />
           ))}
         </div>
-        <h1 className={styles.posHeading}>PUBLIC RELATIONS AND OUTREACH TEAM</h1>
+        <h1 className={styles.posHeading}>
+          PUBLIC RELATIONS AND OUTREACH TEAM <br />& MARKETING TEAM
+        </h1>
         <div className={styles.fourthYear}>
           {Secretariatprjr.map((item) => (
             <TeamCard
