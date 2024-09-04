@@ -191,7 +191,7 @@ export const Secretariat = [
     id: 16,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dhry5xscm/image/upload/v1694017427/gdsc%20seniors/team_pics/DipanPatgiri_ttu2pg.jpg",
+      "https://res.cloudinary.com/dffke2hbp/image/upload/v1725469685/cpj4l43boizonu16hi9a.webp",
     alt: "Dipan Patgiri",
     name: "Dipan Patgiri",
     post: "DIRECTOR (Photo Journalism)",
