@@ -388,7 +388,7 @@ export const Secretariatjr = [
       "https://res.cloudinary.com/dhry5xscm/image/upload/v1725719900/nitsmun/kaustav_dkqxhy.webp",
     alt: "Kaustav Dev",
     name: "Kaustav Dev",
-    post: "Deputy Director of Media Operations",
+    post: "Deputy Director of Design Operations",
     mail: "mailto:devkaustav769@gmail.com",
     linkedin:
       "https://www.linkedin.com/in/kaustav-dev-429123248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -401,7 +401,7 @@ export const Secretariatjr = [
       "https://res.cloudinary.com/dhry5xscm/image/upload/v1725719857/nitsmun/Dhritimaan_xgfzug.webp",
     alt: "Dhritimaan Hazarika",
     name: "Dhritimaan Hazarika",
-    post: "Deputy Director of Media Operations",
+    post: "Deputy Director of Design Operations",
     mail: "mailto:dhritimaan02@gmail.com",
     linkedin:
       "https://www.linkedin.com/in/dhritimaan-hazarika-5131a0259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -428,7 +428,7 @@ export const Secretariatjr = [
       "https://res.cloudinary.com/dhry5xscm/image/upload/v1725719916/nitsmun/uday_qzk0hx.webp",
     alt: "Jaruplavath Uday Karthik",
     name: "Jaruplavath Uday Karthik",
-    post: "Deputy Director of Design Operations",
+    post: "Deputy Director of Media Operations",
     mail: "mailto:jaruplavathudaykarthik@gmail.com",
     linkedin:
       "https://www.linkedin.com/in/jaruplavath-uday-karthik-175783253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
