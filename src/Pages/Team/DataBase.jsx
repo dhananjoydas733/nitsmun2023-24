@@ -322,7 +322,7 @@ export const Secretariatjr = [
     id: 7,
     cName: "team-sec",
     imgsrc:
-      "https://res.cloudinary.com/dp92qug2f/image/upload/v1698840691/poorna_iddn6u.webp",
+      "https://res.cloudinary.com/dhry5xscm/image/upload/v1725785617/WhatsApp_Image_2024-09-08_at_2.21.28_PM_anjkxe.webp",
     alt: "POORNA MANI SANKAR PAKKI",
     name: "Poorna Mani Sankar Pakki",
     post: "Under Secretary General (Operations)",
