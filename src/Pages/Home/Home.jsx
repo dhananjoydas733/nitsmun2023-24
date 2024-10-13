@@ -7,6 +7,7 @@ import Letter from "../../Components/Letters/letters";
 import Nitsmun from "../../Components/WhatIsMUN/nitsMun";
 import Footer from "../../Components/Footer/Footer";
 import Collaboration from "../../Components/Collaboration/Collaboration";
+import Achievements from "../../Components/Achievements/Achievements";
 import Blogs from "../../Components/Blogs/Blogs";
 
 // import About from "../../Components/About/About";
@@ -50,6 +51,7 @@ const Home = () => {
         <Nitsmun />
         <Blogs />
         <Collaboration />
+        <Achievements />
         <Reviews />
         {/* <About/>
       <Archive />
